@@ -23,3 +23,8 @@
 
 ### Histórico de Commits
 14/10/2026 - 1° Commit - Edição do README.md, adicionando o esqueleto do arquivo.
+
+12/11/2026 - 2° Commit - Após muitos testes sem relatar neste arquivo, a parte inicial do programa está pronta, sendo agora preciso polir a interface gráfica. Adições ao script incluem:
+Parte lateral com os controladores de altitude;
+Troca de imagens baseado em botões;
+Preenchimento da imagem baseado no tamanho da janela da aplicação.
