@@ -8,7 +8,10 @@
 #### ao renderizar especificamente o seu tipo de terreno (Ex.: reflexo da luz na água, falta de contraste no gelo, sombra
 #### de montanhas ou densidade de prédios)?
 
-###### R:
+###### R: Quando se olha para as rodoviárias de perto é possível ver uma certa dificuldade em carregar a imagem de modo suave
+<p align="center">
+<img src="./readimg/exemplo.png" alt="Imagem exemplo" width="600">
+</p>
 
 ## 2. Design de Interface e Leis da Gestalt:
 #### Identifique pelo menos duas Leis da Gestalt (Figura-Fundo, Continuidade, Proximidade, Fechamento, etc.)
